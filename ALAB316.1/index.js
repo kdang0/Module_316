@@ -1,4 +1,3 @@
-
 //main
 const mainEl=document.querySelector("main");
 const h1 = document.createElement("h1");
@@ -8,7 +7,7 @@ h1.textContent = "DOM Manipulation";
 h1.style.fontSize = "60px";
 h1.style.textAlign = "center";
 mainEl.appendChild(h1);
-
+mainEl.pare
 //nav
 const topMenuEl=document.querySelector("#top-menu");
 topMenuEl.style.height="100%";
